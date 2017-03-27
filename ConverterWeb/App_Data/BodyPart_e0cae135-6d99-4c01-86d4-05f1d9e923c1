@@ -1,0 +1,10 @@
+{
+    "nm": "Abert's Towhee",
+    "sci": "Melozone aberti",
+    "grp": "Emberizids (Emberizidae)",
+    "test": [
+      { "prop1": "value1" },
+      { "prop2": "value2" },
+      { "prop3": "value3" }
+    ]
+}

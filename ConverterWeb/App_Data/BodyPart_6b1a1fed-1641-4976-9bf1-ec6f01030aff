@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<birdsus>
+  <b nm="Abert's Towhee" sci="Melozone aberti" grp="Emberizids (Emberizidae)" />
+  <b nm="Acadian Flycatcher" sci="Empidonax virescens" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Acorn Woodpecker" sci="Melanerpes formicivorus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Alder Flycatcher" sci="Empidonax alnorum" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Aleutian Tern" sci="Onychoprion aleuticus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Allen's Hummingbird" sci="Selasphorus sasin" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Altamira Oriole" sci="Icterus gularis" grp="Blackbirds (Icteridae)" />
+  <b nm="Amazon Kingfisher" sci="Chloroceryle amazona" grp="Kingfishers (Alcedinidae)" />
+  <b nm="American Avocet" sci="Recurvirostra americana" grp="Stilts and Avocets (Recurvirostridae)" />
+  <b nm="American Bittern" sci="Botaurus lentiginosus" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="American Black Duck" sci="Anas rubripes" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="American Coot" sci="Fulica americana" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="American Crow" sci="Corvus brachyrhynchos" grp="Jays and Crows (Corvidae)" />
+  <b nm="American Dipper" sci="Cinclus mexicanus" grp="Dippers (Cinclidae)" />
+  <b nm="American Flamingo" sci="Phoenicopterus ruber" grp="Flamingos (Phoenicopteridae)" />
+  <b nm="American Golden-Plover" sci="Pluvialis dominica" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="American Goldfinch" sci="Spinus tristis" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="American Kestrel" sci="Falco sparverius" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="American Oystercatcher" sci="Haematopus palliatus" grp="Oystercatchers (Haematopodidae)" />
+  <b nm="American Pipit" sci="Anthus rubescens" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="American Redstart" sci="Setophaga ruticilla" grp="Wood-Warblers (Parulidae)" />
+  <b nm="American Robin" sci="Turdus migratorius" grp="Thrushes (Turdidae)" />
+  <b nm="American Three-toed Woodpecker" sci="Picoides dorsalis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="American Tree Sparrow" sci="Spizella arborea" grp="Emberizids (Emberizidae)" />
+  <b nm="American White Pelican" sci="Pelecanus erythrorhynchos" grp="Pelicans (Pelecanidae)" />
+  <b nm="American Wigeon" sci="Anas americana" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="American Woodcock" sci="Scolopax minor" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Ancient Murrelet" sci="Synthliboramphus antiquus" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Anhinga" sci="Anhinga anhinga" grp="Darters (Anhingidae)" />
+  <b nm="Anna's Hummingbird" sci="Calypte anna" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Antillean Nighthawk" sci="Chordeiles gundlachii" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Antillean Palm-Swift" sci="Tachornis phoenicobia" grp="Swifts (Apodidae)" />
+  <b nm="Aplomado Falcon" sci="Falco femoralis" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Arctic Loon" sci="Gavia arctica" grp="Loons (Gaviidae)" />
+  <b nm="Arctic Tern" sci="Sterna paradisaea" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Arctic Warbler" sci="Phylloscopus borealis" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Arizona Woodpecker" sci="Picoides arizonae" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Ash-throated Flycatcher" sci="Myiarchus cinerascens" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Ashy Storm-Petrel" sci="Oceanodroma homochroa" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Asian Brown Flycatcher" sci="Muscicapa dauurica" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Asian Rosy-Finch" sci="Leucosticte arctoa" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Atlantic Puffin" sci="Fratercula arctica" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Audubon's Oriole" sci="Icterus graduacauda" grp="Blackbirds (Icteridae)" />
+  <b nm="Audubon's Shearwater" sci="Puffinus lherminieri" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Aztec Thrush" sci="Ridgwayia pinicola" grp="Thrushes (Turdidae)" />
+  <b nm="Bachman's Sparrow" sci="Peucaea aestivalis" grp="Emberizids (Emberizidae)" />
+  <b nm="Bachman's Warbler" sci="Vermivora bachmanii" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Bahama Mockingbird" sci="Mimus gundlachii" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Bahama Swallow" sci="Tachycineta cyaneoviridis" grp="Swallows (Hirundinidae)" />
+  <b nm="Bahama Woodstar" sci="Calliphlox evelynae" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Baikal Teal" sci="Anas formosa" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Baird's Sandpiper" sci="Calidris bairdii" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Baird's Sparrow" sci="Ammodramus bairdii" grp="Emberizids (Emberizidae)" />
+  <b nm="Bald Eagle" sci="Haliaeetus leucocephalus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Baltimore Oriole" sci="Icterus galbula" grp="Blackbirds (Icteridae)" />
+  <b nm="Bananaquit" sci="Coereba flaveola" grp="Bananaquits (incertae sedis)" />
+  <b nm="Band-rumped Storm-Petrel" sci="Oceanodroma castro" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Band-tailed Pigeon" sci="Patagioenas fasciata" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Bank Swallow" sci="Riparia riparia" grp="Swallows (Hirundinidae)" />
+  <b nm="Bar-tailed Godwit" sci="Limosa lapponica" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Bare-throated Tiger-Heron" sci="Tigrisoma mexicanum" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Barn Owl" sci="Tyto alba" grp="Barn Owls (Tytonidae)" />
+  <b nm="Barn Swallow" sci="Hirundo rustica" grp="Swallows (Hirundinidae)" />
+  <b nm="Barnacle Goose" sci="Branta leucopsis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Barolo Shearwater" sci="Puffinus assimilis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Barred Owl" sci="Strix varia" grp="Typical Owls (Strigidae)" />
+  <b nm="Barrow's Goldeneye" sci="Bucephala islandica" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Bay-breasted Warbler" sci="Setophaga castanea" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Belcher's Gull" sci="Larus belcheri" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Bell's Sparrow" sci="Artemisiospiza belli" grp="Emberizids (Emberizidae)" />
+  <b nm="Bell's Vireo" sci="Vireo bellii" grp="Vireos (Vireonidae)" />
+  <b nm="Belted Kingfisher" sci="Megaceryle alcyon" grp="Kingfishers (Alcedinidae)" />
+  <b nm="Bendire's Thrasher" sci="Toxostoma bendirei" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Bermuda Petrel" sci="Pterodroma cahow" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Berylline Hummingbird" sci="Amazilia beryllina" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Bewick's Wren" sci="Thryomanes bewickii" grp="Wrens (Troglodytidae)" />
+  <b nm="Bicknell's Thrush" sci="Catharus bicknelli" grp="Thrushes (Turdidae)" />
+  <b nm="Black Guillemot" sci="Cepphus grylle" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Black Noddy" sci="Anous minutus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black Oystercatcher" sci="Haematopus bachmani" grp="Oystercatchers (Haematopodidae)" />
+  <b nm="Black Phoebe" sci="Sayornis nigricans" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Black Rail" sci="Laterallus jamaicensis" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Black Rosy-Finch" sci="Leucosticte atrata" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Black Scoter" sci="Melanitta americana" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Black Skimmer" sci="Rynchops niger" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black Storm-Petrel" sci="Oceanodroma melania" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Black Swift" sci="Cypseloides niger" grp="Swifts (Apodidae)" />
+  <b nm="Black Tern" sci="Chlidonias niger" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black Turnstone" sci="Arenaria melanocephala" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Black Vulture" sci="Coragyps atratus" grp="New World Vultures (Cathartidae)" />
+  <b nm="Black-and-white Warbler" sci="Mniotilta varia" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Black-backed Woodpecker" sci="Picoides arcticus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Black-bellied Plover" sci="Pluvialis squatarola" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Black-bellied Storm-Petrel" sci="Fregetta tropica" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Black-bellied Whistling-Duck" sci="Dendrocygna autumnalis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Black-billed Cuckoo" sci="Coccyzus erythropthalmus" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Black-billed Magpie" sci="Pica hudsonia" grp="Jays and Crows (Corvidae)" />
+  <b nm="Black-browed Albatross" sci="Thalassarche melanophris" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Black-capped Chickadee" sci="Poecile atricapillus" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Black-capped Gnatcatcher" sci="Polioptila nigriceps" grp="Gnatcatchers and Gnatwrens (Polioptilidae)" />
+  <b nm="Black-capped Petrel" sci="Pterodroma hasitata" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Black-capped Vireo" sci="Vireo atricapilla" grp="Vireos (Vireonidae)" />
+  <b nm="Black-chinned Hummingbird" sci="Archilochus alexandri" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Black-chinned Sparrow" sci="Spizella atrogularis" grp="Emberizids (Emberizidae)" />
+  <b nm="Black-crested Titmouse" sci="Baeolophus atricristatus" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Black-crowned Night-Heron" sci="Nycticorax nycticorax" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Black-faced Grassquit" sci="Tiaris bicolor" grp="Emberizids (Emberizidae)" />
+  <b nm="Black-footed Albatross" sci="Phoebastria nigripes" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Black-headed Grosbeak" sci="Pheucticus melanocephalus" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Black-headed Gull" sci="Chroicocephalus ridibundus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black-headed Nightingale-Thrush" sci="Catharus mexicanus" grp="Thrushes (Turdidae)" />
+  <b nm="Black-legged Kittiwake" sci="Rissa tridactyla" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black-necked Stilt" sci="Himantopus mexicanus" grp="Stilts and Avocets (Recurvirostridae)" />
+  <b nm="Black-tailed Gnatcatcher" sci="Polioptila melanura" grp="Gnatcatchers and Gnatwrens (Polioptilidae)" />
+  <b nm="Black-tailed Godwit" sci="Limosa limosa" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Black-tailed Gull" sci="Larus crassirostris" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Black-throated Blue Warbler" sci="Setophaga caerulescens" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Black-throated Gray Warbler" sci="Setophaga nigrescens" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Black-throated Green Warbler" sci="Setophaga virens" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Black-throated Sparrow" sci="Amphispiza bilineata" grp="Emberizids (Emberizidae)" />
+  <b nm="Black-vented Oriole" sci="Icterus wagleri" grp="Blackbirds (Icteridae)" />
+  <b nm="Black-vented Shearwater" sci="Puffinus opisthomelas" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Black-whiskered Vireo" sci="Vireo altiloquus" grp="Vireos (Vireonidae)" />
+  <b nm="Black-winged Stilt" sci="Himantopus himantopus" grp="Stilts and Avocets (Recurvirostridae)" />
+  <b nm="Blackburnian Warbler" sci="Setophaga fusca" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Blackpoll Warbler" sci="Setophaga striata" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Blue Bunting" sci="Cyanocompsa parellina" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Blue Grosbeak" sci="Passerina caerulea" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Blue Jay" sci="Cyanocitta cristata" grp="Jays and Crows (Corvidae)" />
+  <b nm="Blue Mockingbird" sci="Melanotis caerulescens" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Blue-footed Booby" sci="Sula nebouxii" grp="Boobies and Gannets (Sulidae)" />
+  <b nm="Blue-gray Gnatcatcher" sci="Polioptila caerulea" grp="Gnatcatchers and Gnatwrens (Polioptilidae)" />
+  <b nm="Blue-headed Vireo" sci="Vireo solitarius" grp="Vireos (Vireonidae)" />
+  <b nm="Blue-throated Hummingbird" sci="Lampornis clemenciae" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Blue-winged Teal" sci="Anas discors" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Blue-winged Warbler" sci="Vermivora cyanoptera" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Bluethroat" sci="Luscinia svecica" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Boat-tailed Grackle" sci="Quiscalus major" grp="Blackbirds (Icteridae)" />
+  <b nm="Bobolink" sci="Dolichonyx oryzivorus" grp="Blackbirds (Icteridae)" />
+  <b nm="Bohemian Waxwing" sci="Bombycilla garrulus" grp="Waxwings (Bombycillidae)" />
+  <b nm="Bonaparte's Gull" sci="Chroicocephalus philadelphia" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Boreal Chickadee" sci="Poecile hudsonicus" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Boreal Owl" sci="Aegolius funereus" grp="Typical Owls (Strigidae)" />
+  <b nm="Botteri's Sparrow" sci="Peucaea botterii" grp="Emberizids (Emberizidae)" />
+  <b nm="Brambling" sci="Fringilla montifringilla" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Brandt's Cormorant" sci="Phalacrocorax penicillatus" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Brant" sci="Branta bernicla" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Brewer's Blackbird" sci="Euphagus cyanocephalus" grp="Blackbirds (Icteridae)" />
+  <b nm="Brewer's Sparrow" sci="Spizella breweri" grp="Emberizids (Emberizidae)" />
+  <b nm="Bridled Tern" sci="Onychoprion anaethetus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Bridled Titmouse" sci="Baeolophus wollweberi" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Bristle-thighed Curlew" sci="Numenius tahitiensis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Broad-billed Hummingbird" sci="Cynanthus latirostris" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Broad-billed Sandpiper" sci="Calidris falcinellus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Broad-tailed Hummingbird" sci="Selasphorus platycercus" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Broad-winged Hawk" sci="Buteo platypterus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Bronzed Cowbird" sci="Molothrus aeneus" grp="Blackbirds (Icteridae)" />
+  <b nm="Brown Booby" sci="Sula leucogaster" grp="Boobies and Gannets (Sulidae)" />
+  <b nm="Brown Creeper" sci="Certhia americana" grp="Creepers (Certhiidae)" />
+  <b nm="Brown Jay" sci="Psilorhinus morio" grp="Jays and Crows (Corvidae)" />
+  <b nm="Brown Noddy" sci="Anous stolidus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Brown Pelican" sci="Pelecanus occidentalis" grp="Pelicans (Pelecanidae)" />
+  <b nm="Brown Shrike" sci="Lanius cristatus" grp="Shrikes (Laniidae)" />
+  <b nm="Brown Thrasher" sci="Toxostoma rufum" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Brown-backed Solitaire" sci="Myadestes occidentalis" grp="Thrushes (Turdidae)" />
+  <b nm="Brown-capped Rosy-Finch" sci="Leucosticte australis" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Brown-chested Martin" sci="Progne tapera" grp="Swallows (Hirundinidae)" />
+  <b nm="Brown-crested Flycatcher" sci="Myiarchus tyrannulus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Brown-headed Cowbird" sci="Molothrus ater" grp="Blackbirds (Icteridae)" />
+  <b nm="Brown-headed Nuthatch" sci="Sitta pusilla" grp="Nuthatches (Sittidae)" />
+  <b nm="Budgerigar" sci="Melopsittacus undulatus" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Buff-bellied Hummingbird" sci="Amazilia yucatanensis" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Buff-breasted Flycatcher" sci="Empidonax fulvifrons" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Buff-breasted Sandpiper" sci="Calidris subruficollis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Buff-collared Nightjar" sci="Antrostomus ridgwayi" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Bufflehead" sci="Bucephala albeola" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Buller's Shearwater" sci="Puffinus bulleri" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Bullock's Oriole" sci="Icterus bullockii" grp="Blackbirds (Icteridae)" />
+  <b nm="Bulwer's Petrel" sci="Bulweria bulwerii" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Bumblebee Hummingbird" sci="Atthis heloisa" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Burrowing Owl" sci="Athene cunicularia" grp="Typical Owls (Strigidae)" />
+  <b nm="Bushtit" sci="Psaltriparus minimus" grp="Bushtits (Aegithalidae)" />
+  <b nm="Cackling Goose" sci="Branta hutchinsii" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Cactus Wren" sci="Campylorhynchus brunneicapillus" grp="Wrens (Troglodytidae)" />
+  <b nm="California Condor" sci="Gymnogyps californianus" grp="New World Vultures (Cathartidae)" />
+  <b nm="California Gnatcatcher" sci="Polioptila californica" grp="Gnatcatchers and Gnatwrens (Polioptilidae)" />
+  <b nm="California Gull" sci="Larus californicus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="California Quail" sci="Callipepla californica" grp="New World Quail (Odontophoridae)" />
+  <b nm="California Thrasher" sci="Toxostoma redivivum" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="California Towhee" sci="Melozone crissalis" grp="Emberizids (Emberizidae)" />
+  <b nm="Calliope Hummingbird" sci="Selasphorus calliope" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Canada Goose" sci="Branta canadensis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Canada Warbler" sci="Cardellina canadensis" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Canvasback" sci="Aythya valisineria" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Canyon Towhee" sci="Melozone fusca" grp="Emberizids (Emberizidae)" />
+  <b nm="Canyon Wren" sci="Catherpes mexicanus" grp="Wrens (Troglodytidae)" />
+  <b nm="Cape May Warbler" sci="Setophaga tigrina" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Cape Verde Shearwater" sci="Calonectris edwardsii" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Carolina Chickadee" sci="Poecile carolinensis" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Carolina Parakeet" sci="Conuropsis carolinensis" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Carolina Wren" sci="Thryothorus ludovicianus" grp="Wrens (Troglodytidae)" />
+  <b nm="Caspian Tern" sci="Hydroprogne caspia" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Cassin's Auklet" sci="Ptychoramphus aleuticus" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Cassin's Finch" sci="Haemorhous cassinii" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Cassin's Kingbird" sci="Tyrannus vociferans" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Cassin's Sparrow" sci="Peucaea cassinii" grp="Emberizids (Emberizidae)" />
+  <b nm="Cassin's Vireo" sci="Vireo cassinii" grp="Vireos (Vireonidae)" />
+  <b nm="Cattle Egret" sci="Bubulcus ibis" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Cave Swallow" sci="Petrochelidon fulva" grp="Swallows (Hirundinidae)" />
+  <b nm="Cedar Waxwing" sci="Bombycilla cedrorum" grp="Waxwings (Bombycillidae)" />
+  <b nm="Cerulean Warbler" sci="Setophaga cerulea" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Chestnut-backed Chickadee" sci="Poecile rufescens" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Chestnut-collared Longspur" sci="Calcarius ornatus" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="Chestnut-sided Warbler" sci="Setophaga pensylvanica" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Chihuahuan Raven" sci="Corvus cryptoleucus" grp="Jays and Crows (Corvidae)" />
+  <b nm="Chimney Swift" sci="Chaetura pelagica" grp="Swifts (Apodidae)" />
+  <b nm="Chinese Egret" sci="Egretta eulophotes" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Chinese Pond-Heron" sci="Ardeola bacchus" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Chipping Sparrow" sci="Spizella passerina" grp="Emberizids (Emberizidae)" />
+  <b nm="Chuck-will's-widow" sci="Antrostomus carolinensis" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Chukar" sci="Alectoris chukar" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Cinnamon Hummingbird" sci="Amazilia rutila" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Cinnamon Teal" sci="Anas cyanoptera" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Citrine Wagtail" sci="Motacilla citreola" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Clapper Rail" sci="Rallus longirostris" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Clark's Grebe" sci="Aechmophorus clarkii" grp="Grebes (Podicipedidae)" />
+  <b nm="Clark's Nutcracker" sci="Nucifraga columbiana" grp="Jays and Crows (Corvidae)" />
+  <b nm="Clay-colored Sparrow" sci="Spizella pallida" grp="Emberizids (Emberizidae)" />
+  <b nm="Clay-colored Thrush" sci="Turdus grayi" grp="Thrushes (Turdidae)" />
+  <b nm="Cliff Swallow" sci="Petrochelidon pyrrhonota" grp="Swallows (Hirundinidae)" />
+  <b nm="Colima Warbler" sci="Oreothlypis crissalis" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Collared Forest-Falcon" sci="Micrastur semitorquatus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Collared Plover" sci="Charadrius collaris" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Common Black Hawk" sci="Buteogallus anthracinus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Common Chaffinch" sci="Fringilla coelebs" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Common Chiffchaff" sci="Phylloscopus collybita" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Common Crane" sci="Grus grus" grp="Cranes (Gruidae)" />
+  <b nm="Common Cuckoo" sci="Cuculus canorus" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Common Eider" sci="Somateria mollissima" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Common Gallinule" sci="Gallinula galeata" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Common Goldeneye" sci="Bucephala clangula" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Common Grackle" sci="Quiscalus quiscula" grp="Blackbirds (Icteridae)" />
+  <b nm="Common Greenshank" sci="Tringa nebularia" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Common Ground-Dove" sci="Columbina passerina" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Common House-Martin" sci="Delichon urbicum" grp="Swallows (Hirundinidae)" />
+  <b nm="Common Loon" sci="Gavia immer" grp="Loons (Gaviidae)" />
+  <b nm="Common Merganser" sci="Mergus merganser" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Common Moorhen" sci="Gallinula chloropus" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Common Murre" sci="Uria aalge" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Common Myna" sci="Acridotheres tristis" grp="Starlings (Sturnidae)" />
+  <b nm="Common Nighthawk" sci="Chordeiles minor" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Common Pauraque" sci="Nyctidromus albicollis" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Common Pochard" sci="Aythya ferina" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Common Poorwill" sci="Phalaenoptilus nuttallii" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Common Raven" sci="Corvus corax" grp="Jays and Crows (Corvidae)" />
+  <b nm="Common Redpoll" sci="Acanthis flammea" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Common Redshank" sci="Tringa totanus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Common Redstart" sci="Phoenicurus phoenicurus" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Common Ringed Plover" sci="Charadrius hiaticula" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Common Rosefinch" sci="Carpodacus erythrinus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Common Sandpiper" sci="Actitis hypoleucos" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Common Snipe" sci="Gallinago gallinago" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Common Swift" sci="Apus apus" grp="Swifts (Apodidae)" />
+  <b nm="Common Tern" sci="Sterna hirundo" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Common Yellowthroat" sci="Geothlypis trichas" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Connecticut Warbler" sci="Oporornis agilis" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Cook's Petrel" sci="Pterodroma cookii" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Cooper's Hawk" sci="Accipiter cooperii" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Cordilleran Flycatcher" sci="Empidonax occidentalis" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Corn Crake" sci="Crex crex" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Cory's Shearwater" sci="Calonectris diomedea" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Costa's Hummingbird" sci="Calypte costae" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Couch's Kingbird" sci="Tyrannus couchii" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Crane Hawk" sci="Geranospiza caerulescens" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Craveri's Murrelet" sci="Synthliboramphus craveri" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Crescent-chested Warbler" sci="Oreothlypis superciliosa" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Crested Auklet" sci="Aethia cristatella" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Crested Caracara" sci="Caracara cheriway" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Crimson-collared Grosbeak" sci="Rhodothraupis celaeno" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Crissal Thrasher" sci="Toxostoma crissale" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Crowned Slaty Flycatcher" sci="Empidonomus aurantioatrocristatus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Cuban Martin" sci="Progne cryptoleuca" grp="Swallows (Hirundinidae)" />
+  <b nm="Cuban Pewee" sci="Contopus caribaeus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Curlew Sandpiper" sci="Calidris ferruginea" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Curve-billed Thrasher" sci="Toxostoma curvirostre" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Dark-eyed Junco" sci="Junco hyemalis" grp="Emberizids (Emberizidae)" />
+  <b nm="Dark-sided Flycatcher" sci="Muscicapa sibirica" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Dickcissel" sci="Spiza americana" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Double-crested Cormorant" sci="Phalacrocorax auritus" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Double-striped Thick-knee" sci="Burhinus bistriatus" grp="Thick-knees (Burhinidae)" />
+  <b nm="Double-toothed Kite" sci="Harpagus bidentatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Dovekie" sci="Alle alle" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Downy Woodpecker" sci="Picoides pubescens" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Dunlin" sci="Calidris alpina" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Dusky Flycatcher" sci="Empidonax oberholseri" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Dusky Grouse" sci="Dendragapus obscurus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Dusky Thrush" sci="Turdus naumanni" grp="Thrushes (Turdidae)" />
+  <b nm="Dusky Warbler" sci="Phylloscopus fuscatus" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Dusky-capped Flycatcher" sci="Myiarchus tuberculifer" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Eared Grebe" sci="Podiceps nigricollis" grp="Grebes (Podicipedidae)" />
+  <b nm="Eared Quetzal" sci="Euptilotis neoxenus" grp="Trogons (Trogonidae)" />
+  <b nm="Eastern Bluebird" sci="Sialia sialis" grp="Thrushes (Turdidae)" />
+  <b nm="Eastern Kingbird" sci="Tyrannus tyrannus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Eastern Meadowlark" sci="Sturnella magna" grp="Blackbirds (Icteridae)" />
+  <b nm="Eastern Phoebe" sci="Sayornis phoebe" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Eastern Screech-Owl" sci="Megascops asio" grp="Typical Owls (Strigidae)" />
+  <b nm="Eastern Spot-billed Duck" sci="Anas zonorhyncha" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Eastern Towhee" sci="Pipilo erythrophthalmus" grp="Emberizids (Emberizidae)" />
+  <b nm="Eastern Whip-poor-will" sci="Antrostomus vociferus" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Eastern Wood-Pewee" sci="Contopus virens" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Eastern Yellow Wagtail" sci="Motacilla tschutschensis" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Egyptian Goose" sci="Alopochen aegyptiaca" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Elegant Tern" sci="Thalasseus elegans" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Elegant Trogon" sci="Trogon elegans" grp="Trogons (Trogonidae)" />
+  <b nm="Elf Owl" sci="Micrathene whitneyi" grp="Typical Owls (Strigidae)" />
+  <b nm="Emperor Goose" sci="Chen canagica" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Eskimo Curlew" sci="Numenius borealis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Eurasian Blackbird" sci="Turdus merula" grp="Thrushes (Turdidae)" />
+  <b nm="Eurasian Bullfinch" sci="Pyrrhula pyrrhula" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Eurasian Collared-Dove" sci="Streptopelia decaocto" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Eurasian Coot" sci="Fulica atra" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Eurasian Curlew" sci="Numenius arquata" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Eurasian Dotterel" sci="Charadrius morinellus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Eurasian Hobby" sci="Falco subbuteo" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Eurasian Hoopoe" sci="Upupa epops" grp="Hoopoes (Upupidae)" />
+  <b nm="Eurasian Jackdaw" sci="Corvus monedula" grp="Jays and Crows (Corvidae)" />
+  <b nm="Eurasian Kestrel" sci="Falco tinnunculus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Eurasian Oystercatcher" sci="Haematopus ostralegus" grp="Oystercatchers (Haematopodidae)" />
+  <b nm="Eurasian Siskin" sci="Spinus spinus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Eurasian Tree Sparrow" sci="Passer montanus" grp="Old World Sparrows (Passeridae)" />
+  <b nm="Eurasian Wigeon" sci="Anas penelope" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Eurasian Woodcock" sci="Scolopax rusticola" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Eurasian Wryneck" sci="Jynx torquilla" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="European Golden-Plover" sci="Pluvialis apricaria" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="European Starling" sci="Sturnus vulgaris" grp="Starlings (Sturnidae)" />
+  <b nm="European Storm-Petrel" sci="Hydrobates pelagicus" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="European Turtle-Dove" sci="Streptopelia turtur" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Evening Grosbeak" sci="Coccothraustes vespertinus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Eyebrowed Thrush" sci="Turdus obscurus" grp="Thrushes (Turdidae)" />
+  <b nm="Falcated Duck" sci="Anas falcata" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Fan-tailed Warbler" sci="Basileuterus lachrymosus" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Far Eastern Curlew" sci="Numenius madagascariensis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Fea's Petrel" sci="Pterodroma feae" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Ferruginous Hawk" sci="Buteo regalis" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Ferruginous Pygmy-Owl" sci="Glaucidium brasilianum" grp="Typical Owls (Strigidae)" />
+  <b nm="Field Sparrow" sci="Spizella pusilla" grp="Emberizids (Emberizidae)" />
+  <b nm="Fieldfare" sci="Turdus pilaris" grp="Thrushes (Turdidae)" />
+  <b nm="Fish Crow" sci="Corvus ossifragus" grp="Jays and Crows (Corvidae)" />
+  <b nm="Five-striped Sparrow" sci="Amphispiza quinquestriata" grp="Emberizids (Emberizidae)" />
+  <b nm="Flame-colored Tanager" sci="Piranga bidentata" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Flammulated Owl" sci="Psiloscops flammeolus" grp="Typical Owls (Strigidae)" />
+  <b nm="Flesh-footed Shearwater" sci="Puffinus carneipes" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Florida Scrub-Jay" sci="Aphelocoma coerulescens" grp="Jays and Crows (Corvidae)" />
+  <b nm="Fork-tailed Flycatcher" sci="Tyrannus savana" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Fork-tailed Storm-Petrel" sci="Oceanodroma furcata" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Fork-tailed Swift" sci="Apus pacificus" grp="Swifts (Apodidae)" />
+  <b nm="Forster's Tern" sci="Sterna forsteri" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Fox Sparrow" sci="Passerella iliaca" grp="Emberizids (Emberizidae)" />
+  <b nm="Franklin's Gull" sci="Leucophaeus pipixcan" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Fulvous Whistling-Duck" sci="Dendrocygna bicolor" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Gadwall" sci="Anas strepera" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Gambel's Quail" sci="Callipepla gambelii" grp="New World Quail (Odontophoridae)" />
+  <b nm="Garganey" sci="Anas querquedula" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Gila Woodpecker" sci="Melanerpes uropygialis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Gilded Flicker" sci="Colaptes chrysoides" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Glaucous Gull" sci="Larus hyperboreus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Glaucous-winged Gull" sci="Larus glaucescens" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Glossy Ibis" sci="Plegadis falcinellus" grp="Ibises and Spoonbills (Threskiornithidae)" />
+  <b nm="Golden Eagle" sci="Aquila chrysaetos" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Golden-cheeked Warbler" sci="Setophaga chrysoparia" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Golden-crowned Kinglet" sci="Regulus satrapa" grp="Kinglets (Regulidae)" />
+  <b nm="Golden-crowned Sparrow" sci="Zonotrichia atricapilla" grp="Emberizids (Emberizidae)" />
+  <b nm="Golden-crowned Warbler" sci="Basileuterus culicivorus" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Golden-fronted Woodpecker" sci="Melanerpes aurifrons" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Golden-winged Warbler" sci="Vermivora chrysoptera" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Grace's Warbler" sci="Setophaga graciae" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Grasshopper Sparrow" sci="Ammodramus savannarum" grp="Emberizids (Emberizidae)" />
+  <b nm="Gray Bunting" sci="Emberiza variabilis" grp="Emberizids (Emberizidae)" />
+  <b nm="Gray Catbird" sci="Dumetella carolinensis" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Gray Flycatcher" sci="Empidonax wrightii" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Gray Hawk" sci="Buteo plagiatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Gray Heron" sci="Ardea cinerea" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Gray Jay" sci="Perisoreus canadensis" grp="Jays and Crows (Corvidae)" />
+  <b nm="Gray Kingbird" sci="Tyrannus dominicensis" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Gray Nightjar" sci="Caprimulgus indicus" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Gray Partridge" sci="Perdix perdix" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Gray Silky-flycatcher" sci="Ptiliogonys cinereus" grp="Silky-flycatchers (Ptiliogonatidae)" />
+  <b nm="Gray Vireo" sci="Vireo vicinior" grp="Vireos (Vireonidae)" />
+  <b nm="Gray Wagtail" sci="Motacilla cinerea" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Gray-breasted Martin" sci="Progne chalybea" grp="Swallows (Hirundinidae)" />
+  <b nm="Gray-cheeked Thrush" sci="Catharus minimus" grp="Thrushes (Turdidae)" />
+  <b nm="Gray-collared Becard" sci="Pachyramphus major" grp="Becards, Tityras, and Allies (Tityridae)" />
+  <b nm="Gray-crowned Rosy-Finch" sci="Leucosticte tephrocotis" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Gray-crowned Yellowthroat" sci="Geothlypis poliocephala" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Gray-headed Chickadee" sci="Poecile cinctus" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Gray-hooded Gull" sci="Chroicocephalus cirrocephalus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Gray-streaked Flycatcher" sci="Muscicapa griseisticta" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Gray-tailed Tattler" sci="Tringa brevipes" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Graylag Goose" sci="Anser anser" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Great Auk" sci="Pinguinus impennis" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Great Black-backed Gull" sci="Larus marinus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Great Blue Heron" sci="Ardea herodias" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Great Cormorant" sci="Phalacrocorax carbo" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Great Crested Flycatcher" sci="Myiarchus crinitus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Great Egret" sci="Ardea alba" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Great Frigatebird" sci="Fregata minor" grp="Frigatebirds (Fregatidae)" />
+  <b nm="Great Gray Owl" sci="Strix nebulosa" grp="Typical Owls (Strigidae)" />
+  <b nm="Great Horned Owl" sci="Bubo virginianus" grp="Typical Owls (Strigidae)" />
+  <b nm="Great Kiskadee" sci="Pitangus sulphuratus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Great Knot" sci="Calidris tenuirostris" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Great Shearwater" sci="Puffinus gravis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Great Skua" sci="Stercorarius skua" grp="Skuas and Jaegers (Stercorariidae)" />
+  <b nm="Great Spotted Woodpecker" sci="Dendrocopos major" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Great-tailed Grackle" sci="Quiscalus mexicanus" grp="Blackbirds (Icteridae)" />
+  <b nm="Great-winged Petrel" sci="Pterodroma macroptera" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Greater Pewee" sci="Contopus pertinax" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Greater Prairie-Chicken" sci="Tympanuchus cupido" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Greater Roadrunner" sci="Geococcyx californianus" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Greater Sage-Grouse" sci="Centrocercus urophasianus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Greater Sand-Plover" sci="Charadrius leschenaultii" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Greater Scaup" sci="Aythya marila" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Greater White-fronted Goose" sci="Anser albifrons" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Greater Yellowlegs" sci="Tringa melanoleuca" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Green Heron" sci="Butorides virescens" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Green Jay" sci="Cyanocorax yncas" grp="Jays and Crows (Corvidae)" />
+  <b nm="Green Kingfisher" sci="Chloroceryle americana" grp="Kingfishers (Alcedinidae)" />
+  <b nm="Green Parakeet" sci="Psittacara holochlora" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Green Sandpiper" sci="Tringa ochropus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Green Violetear" sci="Colibri thalassinus" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Green-breasted Mango" sci="Anthracothorax prevostii" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Green-tailed Towhee" sci="Pipilo chlorurus" grp="Emberizids (Emberizidae)" />
+  <b nm="Green-winged Teal" sci="Anas crecca" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Greenish Elaenia" sci="Myiopagis viridicata" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Groove-billed Ani" sci="Crotophaga sulcirostris" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Guadalupe Murrelet" sci="Synthliboramphus hypoleucus" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Gull-billed Tern" sci="Gelochelidon nilotica" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Gunnison Sage-Grouse" sci="Centrocercus minimus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Gyrfalcon" sci="Falco rusticolus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Hairy Woodpecker" sci="Picoides villosus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Hammond's Flycatcher" sci="Empidonax hammondii" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Harlequin Duck" sci="Histrionicus histrionicus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Harris's Hawk" sci="Parabuteo unicinctus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Harris's Sparrow" sci="Zonotrichia querula" grp="Emberizids (Emberizidae)" />
+  <b nm="Hawaiian Petrel" sci="Pterodroma sandwichensis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Hawfinch" sci="Coccothraustes coccothraustes" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Heermann's Gull" sci="Larus heermanni" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Henslow's Sparrow" sci="Ammodramus henslowii" grp="Emberizids (Emberizidae)" />
+  <b nm="Hepatic Tanager" sci="Piranga flava" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Herald Petrel" sci="Pterodroma arminjoniana" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Hermit Thrush" sci="Catharus guttatus" grp="Thrushes (Turdidae)" />
+  <b nm="Hermit Warbler" sci="Setophaga occidentalis" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Herring Gull" sci="Larus argentatus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Himalayan Snowcock" sci="Tetraogallus himalayensis" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Hoary Redpoll" sci="Acanthis hornemanni" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Hooded Merganser" sci="Lophodytes cucullatus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Hooded Oriole" sci="Icterus cucullatus" grp="Blackbirds (Icteridae)" />
+  <b nm="Hooded Warbler" sci="Setophaga citrina" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Hook-billed Kite" sci="Chondrohierax uncinatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Horned Grebe" sci="Podiceps auritus" grp="Grebes (Podicipedidae)" />
+  <b nm="Horned Lark" sci="Eremophila alpestris" grp="Larks (Alaudidae)" />
+  <b nm="Horned Puffin" sci="Fratercula corniculata" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="House Finch" sci="Haemorhous mexicanus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="House Sparrow" sci="Passer domesticus" grp="Old World Sparrows (Passeridae)" />
+  <b nm="House Wren" sci="Troglodytes aedon" grp="Wrens (Troglodytidae)" />
+  <b nm="Hudsonian Godwit" sci="Limosa haemastica" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Hutton's Vireo" sci="Vireo huttoni" grp="Vireos (Vireonidae)" />
+  <b nm="Iceland Gull" sci="Larus glaucoides" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Inca Dove" sci="Columbina inca" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Indigo Bunting" sci="Passerina cyanea" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Intermediate Egret" sci="Mesophoyx intermedia" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Island Scrub-Jay" sci="Aphelocoma insularis" grp="Jays and Crows (Corvidae)" />
+  <b nm="Ivory Gull" sci="Pagophila eburnea" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Ivory-billed Woodpecker" sci="Campephilus principalis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Jabiru" sci="Jabiru mycteria" grp="Storks (Ciconiidae)" />
+  <b nm="Jack Snipe" sci="Lymnocryptes minimus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Juniper Titmouse" sci="Baeolophus ridgwayi" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Kamchatka Leaf Warbler" sci="Phylloscopus examinandus" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Kelp Gull" sci="Larus dominicanus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Kentucky Warbler" sci="Geothlypis formosa" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Key West Quail-Dove" sci="Geotrygon chrysia" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Killdeer" sci="Charadrius vociferus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="King Eider" sci="Somateria spectabilis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="King Rail" sci="Rallus elegans" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Kirtland's Warbler" sci="Setophaga kirtlandii" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Kittlitz's Murrelet" sci="Brachyramphus brevirostris" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="La Sagra's Flycatcher" sci="Myiarchus sagrae" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Labrador Duck" sci="Camptorhynchus labradorius" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Ladder-backed Woodpecker" sci="Picoides scalaris" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Lanceolated Warbler" sci="Locustella lanceolata" grp="Grassbirds (Locustellidae)" />
+  <b nm="Lapland Longspur" sci="Calcarius lapponicus" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="Large-billed Tern" sci="Phaetusa simplex" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Lark Bunting" sci="Calamospiza melanocorys" grp="Emberizids (Emberizidae)" />
+  <b nm="Lark Sparrow" sci="Chondestes grammacus" grp="Emberizids (Emberizidae)" />
+  <b nm="Laughing Gull" sci="Leucophaeus atricilla" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Lawrence's Goldfinch" sci="Spinus lawrencei" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Laysan Albatross" sci="Phoebastria immutabilis" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Lazuli Bunting" sci="Passerina amoena" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Le Conte's Sparrow" sci="Ammodramus leconteii" grp="Emberizids (Emberizidae)" />
+  <b nm="Le Conte's Thrasher" sci="Toxostoma lecontei" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Leach's Storm-Petrel" sci="Oceanodroma leucorhoa" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Least Auklet" sci="Aethia pusilla" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Least Bittern" sci="Ixobrychus exilis" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Least Flycatcher" sci="Empidonax minimus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Least Grebe" sci="Tachybaptus dominicus" grp="Grebes (Podicipedidae)" />
+  <b nm="Least Sandpiper" sci="Calidris minutilla" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Least Storm-Petrel" sci="Oceanodroma microsoma" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Least Tern" sci="Sternula antillarum" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Lesser Black-backed Gull" sci="Larus fuscus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Lesser Frigatebird" sci="Fregata ariel" grp="Frigatebirds (Fregatidae)" />
+  <b nm="Lesser Goldfinch" sci="Spinus psaltria" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Lesser Nighthawk" sci="Chordeiles acutipennis" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Lesser Prairie-Chicken" sci="Tympanuchus pallidicinctus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Lesser Sand-Plover" sci="Charadrius mongolus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Lesser Scaup" sci="Aythya affinis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Lesser White-fronted Goose" sci="Anser erythropus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Lesser Whitethroat" sci="Sylvia curruca" grp="Sylviid Warblers (Sylviidae)" />
+  <b nm="Lesser Yellowlegs" sci="Tringa flavipes" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Lewis's Woodpecker" sci="Melanerpes lewis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Light-mantled Albatross" sci="Phoebetria palpebrata" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Limpkin" sci="Aramus guarauna" grp="Limpkins (Aramidae)" />
+  <b nm="Lincoln's Sparrow" sci="Melospiza lincolnii" grp="Emberizids (Emberizidae)" />
+  <b nm="Little Blue Heron" sci="Egretta caerulea" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Little Bunting" sci="Emberiza pusilla" grp="Emberizids (Emberizidae)" />
+  <b nm="Little Curlew" sci="Numenius minutus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Little Egret" sci="Egretta garzetta" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Little Gull" sci="Hydrocoloeus minutus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Little Ringed Plover" sci="Charadrius dubius" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Little Stint" sci="Calidris minuta" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Loggerhead Kingbird" sci="Tyrannus caudifasciatus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Loggerhead Shrike" sci="Lanius ludovicianus" grp="Shrikes (Laniidae)" />
+  <b nm="Long-billed Curlew" sci="Numenius americanus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Long-billed Dowitcher" sci="Limnodromus scolopaceus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Long-billed Murrelet" sci="Brachyramphus perdix" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Long-billed Thrasher" sci="Toxostoma longirostre" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Long-eared Owl" sci="Asio otus" grp="Typical Owls (Strigidae)" />
+  <b nm="Long-tailed Duck" sci="Clangula hyemalis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Long-tailed Jaeger" sci="Stercorarius longicaudus" grp="Skuas and Jaegers (Stercorariidae)" />
+  <b nm="Long-toed Stint" sci="Calidris subminuta" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Louisiana Waterthrush" sci="Parkesia motacilla" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Lucifer Hummingbird" sci="Calothorax lucifer" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Lucy's Warbler" sci="Oreothlypis luciae" grp="Wood-Warblers (Parulidae)" />
+  <b nm="MacGillivray's Warbler" sci="Geothlypis tolmiei" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Magnificent Frigatebird" sci="Fregata magnificens" grp="Frigatebirds (Fregatidae)" />
+  <b nm="Magnificent Hummingbird" sci="Eugenes fulgens" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Magnolia Warbler" sci="Setophaga magnolia" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Mallard" sci="Anas platyrhynchos" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Mangrove Cuckoo" sci="Coccyzus minor" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Mangrove Swallow" sci="Tachycineta albilinea" grp="Swallows (Hirundinidae)" />
+  <b nm="Manx Shearwater" sci="Puffinus puffinus" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Marbled Godwit" sci="Limosa fedoa" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Marbled Murrelet" sci="Brachyramphus marmoratus" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Marsh Sandpiper" sci="Tringa stagnatilis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Marsh Wren" sci="Cistothorus palustris" grp="Wrens (Troglodytidae)" />
+  <b nm="Masked Booby" sci="Sula dactylatra" grp="Boobies and Gannets (Sulidae)" />
+  <b nm="Masked Duck" sci="Nomonyx dominicus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Masked Tityra" sci="Tityra semifasciata" grp="Becards, Tityras, and Allies (Tityridae)" />
+  <b nm="McCown's Longspur" sci="Rhynchophanes mccownii" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="McKay's Bunting" sci="Plectrophenax hyperboreus" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="Merlin" sci="Falco columbarius" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Mew Gull" sci="Larus canus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Mexican Chickadee" sci="Poecile sclateri" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Mexican Jay" sci="Aphelocoma wollweberi" grp="Jays and Crows (Corvidae)" />
+  <b nm="Mexican Whip-poor-will" sci="Antrostomus arizonae" grp="Goatsuckers (Caprimulgidae)" />
+  <b nm="Middendorff's Grasshopper-Warbler" sci="Locustella ochotensis" grp="Grassbirds (Locustellidae)" />
+  <b nm="Mississippi Kite" sci="Ictinia mississippiensis" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Monk Parakeet" sci="Myiopsitta monachus" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Montezuma Quail" sci="Cyrtonyx montezumae" grp="New World Quail (Odontophoridae)" />
+  <b nm="Mottled Duck" sci="Anas fulvigula" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Mottled Owl" sci="Ciccaba virgata" grp="Typical Owls (Strigidae)" />
+  <b nm="Mottled Petrel" sci="Pterodroma inexpectata" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Mountain Bluebird" sci="Sialia currucoides" grp="Thrushes (Turdidae)" />
+  <b nm="Mountain Chickadee" sci="Poecile gambeli" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Mountain Plover" sci="Charadrius montanus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Mountain Quail" sci="Oreortyx pictus" grp="New World Quail (Odontophoridae)" />
+  <b nm="Mourning Dove" sci="Zenaida macroura" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Mourning Warbler" sci="Geothlypis philadelphia" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Mugimaki Flycatcher" sci="Ficedula mugimaki" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Murphy's Petrel" sci="Pterodroma ultima" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Muscovy Duck" sci="Cairina moschata" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Mute Swan" sci="Cygnus olor" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Nanday Parakeet" sci="Aratinga nenday" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Narcissus Flycatcher" sci="Ficedula narcissina" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Nashville Warbler" sci="Oreothlypis ruficapilla" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Nelson's Sparrow" sci="Ammodramus nelsoni" grp="Emberizids (Emberizidae)" />
+  <b nm="Neotropic Cormorant" sci="Phalacrocorax brasilianus" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Northern Beardless-Tyrannulet" sci="Camptostoma imberbe" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Northern Bobwhite" sci="Colinus virginianus" grp="New World Quail (Odontophoridae)" />
+  <b nm="Northern Boobook" sci="Ninox scutulata" grp="Typical Owls (Strigidae)" />
+  <b nm="Northern Cardinal" sci="Cardinalis cardinalis" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Northern Flicker" sci="Colaptes auratus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Northern Fulmar" sci="Fulmarus glacialis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Northern Gannet" sci="Morus bassanus" grp="Boobies and Gannets (Sulidae)" />
+  <b nm="Northern Goshawk" sci="Accipiter gentilis" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Northern Harrier" sci="Circus cyaneus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Northern Hawk Owl" sci="Surnia ulula" grp="Typical Owls (Strigidae)" />
+  <b nm="Northern Jacana" sci="Jacana spinosa" grp="Jacanas (Jacanidae)" />
+  <b nm="Northern Lapwing" sci="Vanellus vanellus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Northern Mockingbird" sci="Mimus polyglottos" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Northern Parula" sci="Setophaga americana" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Northern Pintail" sci="Anas acuta" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Northern Pygmy-Owl" sci="Glaucidium gnoma" grp="Typical Owls (Strigidae)" />
+  <b nm="Northern Rough-winged Swallow" sci="Stelgidopteryx serripennis" grp="Swallows (Hirundinidae)" />
+  <b nm="Northern Saw-whet Owl" sci="Aegolius acadicus" grp="Typical Owls (Strigidae)" />
+  <b nm="Northern Shoveler" sci="Anas clypeata" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Northern Shrike" sci="Lanius excubitor" grp="Shrikes (Laniidae)" />
+  <b nm="Northern Waterthrush" sci="Parkesia noveboracensis" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Northern Wheatear" sci="Oenanthe oenanthe" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Northwestern Crow" sci="Corvus caurinus" grp="Jays and Crows (Corvidae)" />
+  <b nm="Nuttall's Woodpecker" sci="Picoides nuttallii" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Nutting's Flycatcher" sci="Myiarchus nuttingi" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Oak Titmouse" sci="Baeolophus inornatus" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Olive Sparrow" sci="Arremonops rufivirgatus" grp="Emberizids (Emberizidae)" />
+  <b nm="Olive Warbler" sci="Peucedramus taeniatus" grp="Olive Warblers (Peucedramidae)" />
+  <b nm="Olive-backed Pipit" sci="Anthus hodgsoni" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Olive-sided Flycatcher" sci="Contopus cooperi" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Orange-billed Nightingale-Thrush" sci="Catharus aurantiirostris" grp="Thrushes (Turdidae)" />
+  <b nm="Orange-crowned Warbler" sci="Oreothlypis celata" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Orchard Oriole" sci="Icterus spurius" grp="Blackbirds (Icteridae)" />
+  <b nm="Oriental Cuckoo" sci="Cuculus optatus" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Oriental Greenfinch" sci="Chloris sinica" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Oriental Pratincole" sci="Glareola maldivarum" grp="Pratincoles (Glareolidae)" />
+  <b nm="Oriental Scops-Owl" sci="Otus sunia" grp="Typical Owls (Strigidae)" />
+  <b nm="Oriental Turtle-Dove" sci="Streptopelia orientalis" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Osprey" sci="Pandion haliaetus" grp="Ospreys (Pandionidae)" />
+  <b nm="Ovenbird" sci="Seiurus aurocapilla" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Pacific Golden-Plover" sci="Pluvialis fulva" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Pacific Loon" sci="Gavia pacifica" grp="Loons (Gaviidae)" />
+  <b nm="Pacific Wren" sci="Troglodytes pacificus" grp="Wrens (Troglodytidae)" />
+  <b nm="Pacific-slope Flycatcher" sci="Empidonax difficilis" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Paint-billed Crake" sci="Neocrex erythrops" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Painted Bunting" sci="Passerina ciris" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Painted Redstart" sci="Myioborus pictus" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Pallas's Bunting" sci="Emberiza pallasi" grp="Emberizids (Emberizidae)" />
+  <b nm="Pallas's Leaf Warbler" sci="Phylloscopus proregulus" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Palm Warbler" sci="Setophaga palmarum" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Parakeet Auklet" sci="Aethia psittacula" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Parasitic Jaeger" sci="Stercorarius parasiticus" grp="Skuas and Jaegers (Stercorariidae)" />
+  <b nm="Parkinson's Petrel" sci="Procellaria parkinsoni" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Passenger Pigeon" sci="Ectopistes migratorius" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Pechora Pipit" sci="Anthus gustavi" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Pectoral Sandpiper" sci="Calidris melanotos" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Pelagic Cormorant" sci="Phalacrocorax pelagicus" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Peregrine Falcon" sci="Falco peregrinus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Phainopepla" sci="Phainopepla nitens" grp="Silky-flycatchers (Ptiliogonatidae)" />
+  <b nm="Philadelphia Vireo" sci="Vireo philadelphicus" grp="Vireos (Vireonidae)" />
+  <b nm="Pied-billed Grebe" sci="Podilymbus podiceps" grp="Grebes (Podicipedidae)" />
+  <b nm="Pigeon Guillemot" sci="Cepphus columba" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Pileated Woodpecker" sci="Dryocopus pileatus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Pin-tailed Snipe" sci="Gallinago stenura" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Pine Bunting" sci="Emberiza leucocephalos" grp="Emberizids (Emberizidae)" />
+  <b nm="Pine Grosbeak" sci="Pinicola enucleator" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Pine Siskin" sci="Spinus pinus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Pine Warbler" sci="Setophaga pinus" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Pink-footed Goose" sci="Anser brachyrhynchus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Pink-footed Shearwater" sci="Puffinus creatopus" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Pinyon Jay" sci="Gymnorhinus cyanocephalus" grp="Jays and Crows (Corvidae)" />
+  <b nm="Piping Plover" sci="Charadrius melodus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Piratic Flycatcher" sci="Legatus leucophaius" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Plain Chachalaca" sci="Ortalis vetula" grp="Curassows and Guans (Cracidae)" />
+  <b nm="Plain-capped Starthroat" sci="Heliomaster constantii" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Plumbeous Vireo" sci="Vireo plumbeus" grp="Vireos (Vireonidae)" />
+  <b nm="Pomarine Jaeger" sci="Stercorarius pomarinus" grp="Skuas and Jaegers (Stercorariidae)" />
+  <b nm="Prairie Falcon" sci="Falco mexicanus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Prairie Warbler" sci="Setophaga discolor" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Prothonotary Warbler" sci="Protonotaria citrea" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Providence Petrel" sci="Pterodroma solandri" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Purple Finch" sci="Haemorhous purpureus" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Purple Gallinule" sci="Porphyrio martinicus" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Purple Martin" sci="Progne subis" grp="Swallows (Hirundinidae)" />
+  <b nm="Purple Sandpiper" sci="Calidris maritima" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Purple Swamphen" sci="Porphyrio porphyrio" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Pygmy Nuthatch" sci="Sitta pygmaea" grp="Nuthatches (Sittidae)" />
+  <b nm="Pyrrhuloxia" sci="Cardinalis sinuatus" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Razorbill" sci="Alca torda" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Red Crossbill" sci="Loxia curvirostra" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="Red Knot" sci="Calidris canutus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Red Phalarope" sci="Phalaropus fulicarius" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Red-bellied Woodpecker" sci="Melanerpes carolinus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Red-billed Pigeon" sci="Patagioenas flavirostris" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Red-billed Tropicbird" sci="Phaethon aethereus" grp="Tropicbirds (Phaethontidae)" />
+  <b nm="Red-breasted Merganser" sci="Mergus serrator" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Red-breasted Nuthatch" sci="Sitta canadensis" grp="Nuthatches (Sittidae)" />
+  <b nm="Red-breasted Sapsucker" sci="Sphyrapicus ruber" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Red-cockaded Woodpecker" sci="Picoides borealis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Red-crowned Parrot" sci="Amazona viridigenalis" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Red-eyed Vireo" sci="Vireo olivaceus" grp="Vireos (Vireonidae)" />
+  <b nm="Red-faced Cormorant" sci="Phalacrocorax urile" grp="Cormorants (Phalacrocoracidae)" />
+  <b nm="Red-faced Warbler" sci="Cardellina rubrifrons" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Red-flanked Bluetail" sci="Tarsiger cyanurus" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Red-footed Booby" sci="Sula sula" grp="Boobies and Gannets (Sulidae)" />
+  <b nm="Red-footed Falcon" sci="Falco vespertinus" grp="Caracaras and Falcons (Falconidae)" />
+  <b nm="Red-headed Woodpecker" sci="Melanerpes erythrocephalus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Red-legged Kittiwake" sci="Rissa brevirostris" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Red-legged Thrush" sci="Turdus plumbeus" grp="Thrushes (Turdidae)" />
+  <b nm="Red-naped Sapsucker" sci="Sphyrapicus nuchalis" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Red-necked Grebe" sci="Podiceps grisegena" grp="Grebes (Podicipedidae)" />
+  <b nm="Red-necked Phalarope" sci="Phalaropus lobatus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Red-necked Stint" sci="Calidris ruficollis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Red-shouldered Hawk" sci="Buteo lineatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Red-tailed Hawk" sci="Buteo jamaicensis" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Red-tailed Tropicbird" sci="Phaethon rubricauda" grp="Tropicbirds (Phaethontidae)" />
+  <b nm="Red-throated Loon" sci="Gavia stellata" grp="Loons (Gaviidae)" />
+  <b nm="Red-throated Pipit" sci="Anthus cervinus" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Red-whiskered Bulbul" sci="Pycnonotus jocosus" grp="Bulbuls (Pycnonotidae)" />
+  <b nm="Red-winged Blackbird" sci="Agelaius phoeniceus" grp="Blackbirds (Icteridae)" />
+  <b nm="Reddish Egret" sci="Egretta rufescens" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Redhead" sci="Aythya americana" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Redwing" sci="Turdus iliacus" grp="Thrushes (Turdidae)" />
+  <b nm="Reed Bunting" sci="Emberiza schoeniclus" grp="Emberizids (Emberizidae)" />
+  <b nm="Rhinoceros Auklet" sci="Cerorhinca monocerata" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Ridgway?s Rail" sci="Rallus obsoletus" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Ring-billed Gull" sci="Larus delawarensis" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Ring-necked Duck" sci="Aythya collaris" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Ring-necked Pheasant" sci="Phasianus colchicus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Ringed Kingfisher" sci="Megaceryle torquata" grp="Kingfishers (Alcedinidae)" />
+  <b nm="Ringed Storm-Petrel" sci="Oceanodroma hornbyi" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Roadside Hawk" sci="Buteo magnirostris" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Rock Pigeon" sci="Columba livia" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Rock Ptarmigan" sci="Lagopus muta" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Rock Sandpiper" sci="Calidris ptilocnemis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Rock Wren" sci="Salpinctes obsoletus" grp="Wrens (Troglodytidae)" />
+  <b nm="Rose-breasted Grosbeak" sci="Pheucticus ludovicianus" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Rose-throated Becard" sci="Pachyramphus aglaiae" grp="Becards, Tityras, and Allies (Tityridae)" />
+  <b nm="Roseate Spoonbill" sci="Platalea ajaja" grp="Ibises and Spoonbills (Threskiornithidae)" />
+  <b nm="Roseate Tern" sci="Sterna dougallii" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Ross's Goose" sci="Chen rossii" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Ross's Gull" sci="Rhodostethia rosea" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Rosy-faced Lovebird" sci="Agapornis roseicollis" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Rough-legged Hawk" sci="Buteo lagopus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Royal Tern" sci="Thalasseus maximus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Ruby-crowned Kinglet" sci="Regulus calendula" grp="Kinglets (Regulidae)" />
+  <b nm="Ruby-throated Hummingbird" sci="Archilochus colubris" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Ruddy Duck" sci="Oxyura jamaicensis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Ruddy Ground-Dove" sci="Columbina talpacoti" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Ruddy Quail-Dove" sci="Geotrygon montana" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Ruddy Turnstone" sci="Arenaria interpres" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Ruff" sci="Calidris pugnax" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Ruffed Grouse" sci="Bonasa umbellus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Rufous Hummingbird" sci="Selasphorus rufus" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Rufous-backed Robin" sci="Turdus rufopalliatus" grp="Thrushes (Turdidae)" />
+  <b nm="Rufous-capped Warbler" sci="Basileuterus rufifrons" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Rufous-crowned Sparrow" sci="Aimophila ruficeps" grp="Emberizids (Emberizidae)" />
+  <b nm="Rufous-tailed Robin" sci="Luscinia sibilans" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Rufous-winged Sparrow" sci="Peucaea carpalis" grp="Emberizids (Emberizidae)" />
+  <b nm="Rustic Bunting" sci="Emberiza rustica" grp="Emberizids (Emberizidae)" />
+  <b nm="Rusty Blackbird" sci="Euphagus carolinus" grp="Blackbirds (Icteridae)" />
+  <b nm="Sabine's Gull" sci="Xema sabini" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Sage Thrasher" sci="Oreoscoptes montanus" grp="Mockingbirds and Thrashers (Mimidae)" />
+  <b nm="Sagebrush Sparrow" sci="Artemisiospiza nevadensis" grp="Emberizids (Emberizidae)" />
+  <b nm="Saltmarsh Sparrow" sci="Ammodramus caudacutus" grp="Emberizids (Emberizidae)" />
+  <b nm="Salvin?s Albatross" sci="Thalassarche salvini" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Sanderling" sci="Calidris alba" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Sandhill Crane" sci="Grus canadensis" grp="Cranes (Gruidae)" />
+  <b nm="Sandwich Tern" sci="Thalasseus sandvicensis" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Savannah Sparrow" sci="Passerculus sandwichensis" grp="Emberizids (Emberizidae)" />
+  <b nm="Say's Phoebe" sci="Sayornis saya" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Scaled Quail" sci="Callipepla squamata" grp="New World Quail (Odontophoridae)" />
+  <b nm="Scaly-breasted Munia" sci="Lonchura punctulata" grp="Waxbills (Estrildidae)" />
+  <b nm="Scaly-naped Pigeon" sci="Patagioenas squamosa" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Scarlet Ibis" sci="Eudocimus ruber" grp="Ibises and Spoonbills (Threskiornithidae)" />
+  <b nm="Scarlet Tanager" sci="Piranga olivacea" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Scissor-tailed Flycatcher" sci="Tyrannus forficatus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Scott's Oriole" sci="Icterus parisorum" grp="Blackbirds (Icteridae)" />
+  <b nm="Scripps's Murrelet" sci="Synthliboramphus scrippsi" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Seaside Sparrow" sci="Ammodramus maritimus" grp="Emberizids (Emberizidae)" />
+  <b nm="Sedge Warbler" sci="Acrocephalus schoenobaenus" grp="Reed Warblers (Acrocephalidae)" />
+  <b nm="Sedge Wren" sci="Cistothorus platensis" grp="Wrens (Troglodytidae)" />
+  <b nm="Semipalmated Plover" sci="Charadrius semipalmatus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Semipalmated Sandpiper" sci="Calidris pusilla" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Sharp-shinned Hawk" sci="Accipiter striatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Sharp-tailed Grouse" sci="Tympanuchus phasianellus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Sharp-tailed Sandpiper" sci="Calidris acuminata" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Shiny Cowbird" sci="Molothrus bonariensis" grp="Blackbirds (Icteridae)" />
+  <b nm="Short-billed Dowitcher" sci="Limnodromus griseus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Short-eared Owl" sci="Asio flammeus" grp="Typical Owls (Strigidae)" />
+  <b nm="Short-tailed Albatross" sci="Phoebastria albatrus" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Short-tailed Hawk" sci="Buteo brachyurus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Short-tailed Shearwater" sci="Puffinus tenuirostris" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Siberian Accentor" sci="Prunella montanella" grp="Accentors (Prunellidae)" />
+  <b nm="Siberian Blue Robin" sci="Luscinia cyane" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Siberian Rubythroat" sci="Luscinia calliope" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Sinaloa Wren" sci="Thryophilus sinaloa" grp="Wrens (Troglodytidae)" />
+  <b nm="Sky Lark" sci="Alauda arvensis" grp="Larks (Alaudidae)" />
+  <b nm="Slate-throated Redstart" sci="Myioborus miniatus" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Slaty-backed Gull" sci="Larus schistisagus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Slender-billed Curlew" sci="Numenius tenuirostris" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Smew" sci="Mergellus albellus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Smith's Longspur" sci="Calcarius pictus" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="Smooth-billed Ani" sci="Crotophaga ani" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Snail Kite" sci="Rostrhamus sociabilis" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Snow Bunting" sci="Plectrophenax nivalis" grp="Longspurs and Snow Buntings (Calcariidae)" />
+  <b nm="Snow Goose" sci="Chen caerulescens" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Snowy Egret" sci="Egretta thula" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Snowy Owl" sci="Bubo scandiacus" grp="Typical Owls (Strigidae)" />
+  <b nm="Snowy Plover" sci="Charadrius nivosus" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Social Flycatcher" sci="Myiozetetes similis" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Solitary Sandpiper" sci="Tringa solitaria" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Solitary Snipe" sci="Gallinago solitaria" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Song Sparrow" sci="Melospiza melodia" grp="Emberizids (Emberizidae)" />
+  <b nm="Song Thrush" sci="Turdus philomelos" grp="Thrushes (Turdidae)" />
+  <b nm="Sooty Grouse" sci="Dendragapus fuliginosus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Sooty Shearwater" sci="Puffinus griseus" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Sooty Tern" sci="Onychoprion fuscatus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Sora" sci="Porzana carolina" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="South Polar Skua" sci="Stercorarius maccormicki" grp="Skuas and Jaegers (Stercorariidae)" />
+  <b nm="Southern Martin" sci="Progne elegans" grp="Swallows (Hirundinidae)" />
+  <b nm="Spectacled Eider" sci="Somateria fischeri" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Spoon-billed Sandpiper" sci="Calidris pygmeus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Spot-breasted Oriole" sci="Icterus pectoralis" grp="Blackbirds (Icteridae)" />
+  <b nm="Spotted Dove" sci="Streptopelia chinensis" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Spotted Flycatcher" sci="Muscicapa striata" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Spotted Owl" sci="Strix occidentalis" grp="Typical Owls (Strigidae)" />
+  <b nm="Spotted Rail" sci="Pardirallus maculatus" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Spotted Redshank" sci="Tringa erythropus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Spotted Sandpiper" sci="Actitis macularius" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Spotted Towhee" sci="Pipilo maculatus" grp="Emberizids (Emberizidae)" />
+  <b nm="Sprague's Pipit" sci="Anthus spragueii" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Spruce Grouse" sci="Falcipennis canadensis" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Stejneger's Petrel" sci="Pterodroma longirostris" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Steller's Eider" sci="Polysticta stelleri" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Steller's Jay" sci="Cyanocitta stelleri" grp="Jays and Crows (Corvidae)" />
+  <b nm="Steller's Sea-Eagle" sci="Haliaeetus pelagicus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Stilt Sandpiper" sci="Calidris himantopus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Stonechat" sci="Saxicola torquatus" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Streak-backed Oriole" sci="Icterus pustulatus" grp="Blackbirds (Icteridae)" />
+  <b nm="Streaked Shearwater" sci="Calonectris leucomelas" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Stygian Owl" sci="Asio stygius" grp="Typical Owls (Strigidae)" />
+  <b nm="Sulphur-bellied Flycatcher" sci="Myiodynastes luteiventris" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Summer Tanager" sci="Piranga rubra" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Sungrebe" sci="Heliornis fulica" grp="Sungrebes (Heliornithidae)" />
+  <b nm="Surf Scoter" sci="Melanitta perspicillata" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Surfbird" sci="Calidris virgata" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Swainson's Hawk" sci="Buteo swainsoni" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Swainson's Thrush" sci="Catharus ustulatus" grp="Thrushes (Turdidae)" />
+  <b nm="Swainson's Warbler" sci="Limnothlypis swainsonii" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Swallow-tailed Gull" sci="Creagrus furcatus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Swallow-tailed Kite" sci="Elanoides forficatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="Swamp Sparrow" sci="Melospiza georgiana" grp="Emberizids (Emberizidae)" />
+  <b nm="Swinhoe's Storm-Petrel" sci="Oceanodroma monorhis" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Taiga Bean-Goose" sci="Anser fabalis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Taiga Flycatcher" sci="Ficedula albicilla" grp="Old World Flycatchers (Muscicapidae)" />
+  <b nm="Tamaulipas Crow" sci="Corvus imparatus" grp="Jays and Crows (Corvidae)" />
+  <b nm="Tawny-shouldered Blackbird" sci="Agelaius humeralis" grp="Blackbirds (Icteridae)" />
+  <b nm="Temminck's Stint" sci="Calidris temminckii" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Tennessee Warbler" sci="Oreothlypis peregrina" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Terek Sandpiper" sci="Xenus cinereus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Thayer's Gull" sci="Larus thayeri" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Thick-billed Kingbird" sci="Tyrannus crassirostris" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Thick-billed Murre" sci="Uria lomvia" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Thick-billed Parrot" sci="Rhynchopsitta pachyrhyncha" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="Thick-billed Vireo" sci="Vireo crassirostris" grp="Vireos (Vireonidae)" />
+  <b nm="Townsend's Shearwater" sci="Puffinus auricularis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Townsend's Solitaire" sci="Myadestes townsendi" grp="Thrushes (Turdidae)" />
+  <b nm="Townsend's Warbler" sci="Setophaga townsendi" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Tree Pipit" sci="Anthus trivialis" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="Tree Swallow" sci="Tachycineta bicolor" grp="Swallows (Hirundinidae)" />
+  <b nm="Tricolored Blackbird" sci="Agelaius tricolor" grp="Blackbirds (Icteridae)" />
+  <b nm="Tricolored Heron" sci="Egretta tricolor" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Tristram's Storm-Petrel" sci="Oceanodroma tristrami" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Tropical Kingbird" sci="Tyrannus melancholicus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Tropical Parula" sci="Setophaga pitiayumi" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Trumpeter Swan" sci="Cygnus buccinator" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Tufted Duck" sci="Aythya fuligula" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Tufted Flycatcher" sci="Mitrephanes phaeocercus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Tufted Puffin" sci="Fratercula cirrhata" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Tufted Titmouse" sci="Baeolophus bicolor" grp="Chickadees and Titmice (Paridae)" />
+  <b nm="Tundra Bean-Goose" sci="Anser serrirostris" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Tundra Swan" sci="Cygnus columbianus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Turkey Vulture" sci="Cathartes aura" grp="New World Vultures (Cathartidae)" />
+  <b nm="Upland Sandpiper" sci="Bartramia longicauda" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Varied Bunting" sci="Passerina versicolor" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Varied Thrush" sci="Ixoreus naevius" grp="Thrushes (Turdidae)" />
+  <b nm="Variegated Flycatcher" sci="Empidonomus varius" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Vaux's Swift" sci="Chaetura vauxi" grp="Swifts (Apodidae)" />
+  <b nm="Veery" sci="Catharus fuscescens" grp="Thrushes (Turdidae)" />
+  <b nm="Verdin" sci="Auriparus flaviceps" grp="Verdin (Remizidae)" />
+  <b nm="Vermilion Flycatcher" sci="Pyrocephalus rubinus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Vesper Sparrow" sci="Pooecetes gramineus" grp="Emberizids (Emberizidae)" />
+  <b nm="Violet-crowned Hummingbird" sci="Amazilia violiceps" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Violet-green Swallow" sci="Tachycineta thalassina" grp="Swallows (Hirundinidae)" />
+  <b nm="Virginia Rail" sci="Rallus limicola" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Virginia's Warbler" sci="Oreothlypis virginiae" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Wandering Albatross" sci="Diomedea exulans" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Wandering Tattler" sci="Tringa incana" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Warbling Vireo" sci="Vireo gilvus" grp="Vireos (Vireonidae)" />
+  <b nm="Wedge-rumped Storm-Petrel" sci="Oceanodroma tethys" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Wedge-tailed Shearwater" sci="Puffinus pacificus" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Western Bluebird" sci="Sialia mexicana" grp="Thrushes (Turdidae)" />
+  <b nm="Western Grebe" sci="Aechmophorus occidentalis" grp="Grebes (Podicipedidae)" />
+  <b nm="Western Gull" sci="Larus occidentalis" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Western Kingbird" sci="Tyrannus verticalis" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Western Meadowlark" sci="Sturnella neglecta" grp="Blackbirds (Icteridae)" />
+  <b nm="Western Reef-Heron" sci="Egretta gularis" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Western Sandpiper" sci="Calidris mauri" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Western Screech-Owl" sci="Megascops kennicottii" grp="Typical Owls (Strigidae)" />
+  <b nm="Western Scrub-Jay" sci="Aphelocoma californica" grp="Jays and Crows (Corvidae)" />
+  <b nm="Western Spindalis" sci="Spindalis zena" grp="Tanagers (Thraupidae)" />
+  <b nm="Western Tanager" sci="Piranga ludoviciana" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Western Wood-Pewee" sci="Contopus sordidulus" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Whimbrel" sci="Numenius phaeopus" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Whiskered Auklet" sci="Aethia pygmaea" grp="Auks, Murres, and Puffins (Alcidae)" />
+  <b nm="Whiskered Screech-Owl" sci="Megascops trichopsis" grp="Typical Owls (Strigidae)" />
+  <b nm="Whiskered Tern" sci="Chlidonias hybrida" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="White Ibis" sci="Eudocimus albus" grp="Ibises and Spoonbills (Threskiornithidae)" />
+  <b nm="White Wagtail" sci="Motacilla alba" grp="Wagtails and Pipits (Motacillidae)" />
+  <b nm="White-breasted Nuthatch" sci="Sitta carolinensis" grp="Nuthatches (Sittidae)" />
+  <b nm="White-capped Albatross" sci="Thalassarche cauta" grp="Albatrosses (Diomedeidae)" />
+  <b nm="White-cheeked Pintail" sci="Anas bahamensis" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="White-chinned Petrel" sci="Procellaria aequinoctialis" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="White-collared Seedeater" sci="Sporophila torqueola" grp="Emberizids (Emberizidae)" />
+  <b nm="White-collared Swift" sci="Streptoprocne zonaris" grp="Swifts (Apodidae)" />
+  <b nm="White-crested Elaenia" sci="Elaenia albiceps" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="White-crowned Pigeon" sci="Patagioenas leucocephala" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="White-crowned Sparrow" sci="Zonotrichia leucophrys" grp="Emberizids (Emberizidae)" />
+  <b nm="White-eared Hummingbird" sci="Hylocharis leucotis" grp="Hummingbirds (Trochilidae)" />
+  <b nm="White-eyed Vireo" sci="Vireo griseus" grp="Vireos (Vireonidae)" />
+  <b nm="White-faced Ibis" sci="Plegadis chihi" grp="Ibises and Spoonbills (Threskiornithidae)" />
+  <b nm="White-faced Storm-Petrel" sci="Pelagodroma marina" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="White-headed Woodpecker" sci="Picoides albolarvatus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="White-rumped Sandpiper" sci="Calidris fuscicollis" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="White-tailed Eagle" sci="Haliaeetus albicilla" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="White-tailed Hawk" sci="Buteo albicaudatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="White-tailed Kite" sci="Elanus leucurus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+  <b nm="White-tailed Ptarmigan" sci="Lagopus leucura" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="White-tailed Tropicbird" sci="Phaethon lepturus" grp="Tropicbirds (Phaethontidae)" />
+  <b nm="White-throated Needletail" sci="Hirundapus caudacutus" grp="Swifts (Apodidae)" />
+  <b nm="White-throated Sparrow" sci="Zonotrichia albicollis" grp="Emberizids (Emberizidae)" />
+  <b nm="White-throated Swift" sci="Aeronautes saxatalis" grp="Swifts (Apodidae)" />
+  <b nm="White-throated Thrush" sci="Turdus assimilis" grp="Thrushes (Turdidae)" />
+  <b nm="White-tipped Dove" sci="Leptotila verreauxi" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="White-winged Crossbill" sci="Loxia leucoptera" grp="Fringilline and Cardueline Finches and Allies (Fringillidae)" />
+  <b nm="White-winged Dove" sci="Zenaida asiatica" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="White-winged Parakeet" sci="Brotogeris versicolurus" grp="Lories, Parakeets, Macaws, and Parrots (Psittacidae)" />
+  <b nm="White-winged Scoter" sci="Melanitta fusca" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="White-winged Tern" sci="Chlidonias leucopterus" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Whooper Swan" sci="Cygnus cygnus" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Whooping Crane" sci="Grus americana" grp="Cranes (Gruidae)" />
+  <b nm="Wild Turkey" sci="Meleagris gallopavo" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Willet" sci="Tringa semipalmata" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Williamson's Sapsucker" sci="Sphyrapicus thyroideus" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Willow Flycatcher" sci="Empidonax traillii" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Willow Ptarmigan" sci="Lagopus lagopus" grp="Partridges, Grouse, Turkeys, and Old World Quail (Phasianidae)" />
+  <b nm="Willow Warbler" sci="Phylloscopus trochilus" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Wilson's Phalarope" sci="Phalaropus tricolor" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Wilson's Plover" sci="Charadrius wilsonia" grp="Lapwings and Plovers (Charadriidae)" />
+  <b nm="Wilson's Snipe" sci="Gallinago delicata" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Wilson's Storm-Petrel" sci="Oceanites oceanicus" grp="Storm-Petrels (Hydrobatidae)" />
+  <b nm="Wilson's Warbler" sci="Cardellina pusilla" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Winter Wren" sci="Troglodytes hiemalis" grp="Wrens (Troglodytidae)" />
+  <b nm="Wood Duck" sci="Aix sponsa" grp="Ducks, Geese, and Swans (Anatidae)" />
+  <b nm="Wood Sandpiper" sci="Tringa glareola" grp="Sandpipers, Phalaropes, and Allies (Scolopacidae)" />
+  <b nm="Wood Stork" sci="Mycteria americana" grp="Storks (Ciconiidae)" />
+  <b nm="Wood Thrush" sci="Hylocichla mustelina" grp="Thrushes (Turdidae)" />
+  <b nm="Wood Warbler" sci="Phylloscopus sibilatrix" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Worm-eating Warbler" sci="Helmitheros vermivorum" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Worthen's Sparrow" sci="Spizella wortheni" grp="Emberizids (Emberizidae)" />
+  <b nm="Wrentit" sci="Chamaea fasciata" grp="Sylviid Warblers (Sylviidae)" />
+  <b nm="Xantus's Hummingbird" sci="Hylocharis xantusii" grp="Hummingbirds (Trochilidae)" />
+  <b nm="Yellow Bittern" sci="Ixobrychus sinensis" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Yellow Grosbeak" sci="Pheucticus chrysopeplus" grp="Cardinals, Piranga Tanagers and Allies (Cardinalidae)" />
+  <b nm="Yellow Rail" sci="Coturnicops noveboracensis" grp="Rails, Gallinules, and Coots (Rallidae)" />
+  <b nm="Yellow Warbler" sci="Setophaga petechia" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Yellow-bellied Flycatcher" sci="Empidonax flaviventris" grp="Tyrant Flycatchers (Tyrannidae)" />
+  <b nm="Yellow-bellied Sapsucker" sci="Sphyrapicus varius" grp="Woodpeckers and Allies (Picidae)" />
+  <b nm="Yellow-billed Cuckoo" sci="Coccyzus americanus" grp="Cuckoos, Roadrunners, and Anis (Cuculidae)" />
+  <b nm="Yellow-billed Loon" sci="Gavia adamsii" grp="Loons (Gaviidae)" />
+  <b nm="Yellow-billed Magpie" sci="Pica nuttalli" grp="Jays and Crows (Corvidae)" />
+  <b nm="Yellow-breasted Bunting" sci="Emberiza aureola" grp="Emberizids (Emberizidae)" />
+  <b nm="Yellow-breasted Chat" sci="Icteria virens" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Yellow-browed Bunting" sci="Emberiza chrysophrys" grp="Emberizids (Emberizidae)" />
+  <b nm="Yellow-browed Warbler" sci="Phylloscopus inornatus" grp="Leaf Warblers (Phylloscopidae)" />
+  <b nm="Yellow-crowned Night-Heron" sci="Nyctanassa violacea" grp="Bitterns, Herons, and Allies (Ardeidae)" />
+  <b nm="Yellow-eyed Junco" sci="Junco phaeonotus" grp="Emberizids (Emberizidae)" />
+  <b nm="Yellow-faced Grassquit" sci="Tiaris olivaceus" grp="Emberizids (Emberizidae)" />
+  <b nm="Yellow-footed Gull" sci="Larus livens" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Yellow-green Vireo" sci="Vireo flavoviridis" grp="Vireos (Vireonidae)" />
+  <b nm="Yellow-headed Blackbird" sci="Xanthocephalus xanthocephalus" grp="Blackbirds (Icteridae)" />
+  <b nm="Yellow-legged Gull" sci="Larus michahellis" grp="Gulls, Terns, and Skimmers (Laridae)" />
+  <b nm="Yellow-nosed Albatross" sci="Thalassarche chlororhynchos" grp="Albatrosses (Diomedeidae)" />
+  <b nm="Yellow-rumped Warbler" sci="Setophaga coronata" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Yellow-throated Bunting" sci="Emberiza elegans" grp="Emberizids (Emberizidae)" />
+  <b nm="Yellow-throated Vireo" sci="Vireo flavifrons" grp="Vireos (Vireonidae)" />
+  <b nm="Yellow-throated Warbler" sci="Setophaga dominica" grp="Wood-Warblers (Parulidae)" />
+  <b nm="Yucatan Vireo" sci="Vireo magister" grp="Vireos (Vireonidae)" />
+  <b nm="Zenaida Dove" sci="Zenaida aurita" grp="Pigeons and Doves (Columbidae)" />
+  <b nm="Zino?s Petrel" sci="Pterodroma madeira" grp="Shearwaters and Petrels (Procellariidae)" />
+  <b nm="Zone-tailed Hawk" sci="Buteo albonotatus" grp="Hawks, Kites, Eagles, and Allies (Accipitridae)" />
+</birdsus>

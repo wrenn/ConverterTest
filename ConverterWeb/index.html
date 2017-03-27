@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>New Classrooms - Converter Test Project</title>
+    <link rel="stylesheet" href="Css/vex.css" />
+    <link rel="stylesheet" href="Css/vex-theme-os.css" />
+    <style>
+        #container {
+            width: 400px;
+            font-family: monospace;
+            font-weight: bold;
+        }
+
+        #error {
+            color: red;
+        }
+
+        #error, #success {
+            display: none;
+        }
+
+        .verbiage {
+            padding: 5px 0 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <div id="container">
+            <div class="verbiage">Select a JSON or XML file to upload and convert:</div>
+            <div><input type="file" id="fileCtrl" accept=".json, .xml" /></div>
+            <div><input type="button" id="btnUpload" value="Convert File" /></div>
+            <div id="success" class="verbiage">Download converted file: <a href="" id="lnkFile"></a></div>
+            <div id="error" class="verbiage"></div>
+        </div>
+    </form>
+    <script type="text/javascript" src="Scripts/vex.combined.min.js"></script>
+    <script type="text/javascript" src="Scripts/FileManager.js"></script>
+    <script type="text/javascript">
+        vex.defaultOptions.className = 'vex-theme-os';
+    </script>
+</body>
+</html>

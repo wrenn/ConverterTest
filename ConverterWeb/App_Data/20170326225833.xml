@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bird>
+  <nm>Abert's Towhee</nm>
+  <sci>Melozone aberti</sci>
+  <grp>Emberizids (Emberizidae)</grp>
+  <test>
+    <prop1>value1</prop1>
+  </test>
+  <test>
+    <prop2>value2</prop2>
+  </test>
+  <test>
+    <prop3>value3</prop3>
+  </test>
+</bird>
