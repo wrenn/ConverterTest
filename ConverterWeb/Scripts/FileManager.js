@@ -11,10 +11,12 @@
         var formData;
         var promise;
 
+        // Reset results output
         errorDiv.innerHTML = '';
         errorDiv.style.display = 'none';
         successDiv.style.display = 'none';
 
+        // Ensure user has chosen a file
         if (fileCtrl.value) {
 
             // Append file to form data
@@ -22,7 +24,7 @@
             formData.append('sourceFile', fileCtrl.files[0], fileCtrl.files[0].name);
 
             // Display modal screen
-            vex.dialog.alert({ unsafeMessage: 'Processing file. Please wait', showCloseButton: false });
+            vex.dialog.alert({ content: 'Processing file. Please wait', showCloseButton: false, buttons:[] });
 
             // Post file for conversion
             promise = DATA.post('api/v1/files', formData);
@@ -39,11 +41,11 @@
 
             promise.catch(function (reason) {
                 errorDiv.style.display = 'block';
-                errorDiv.innerHTML = 'Error: ' + reason;
+                errorDiv.innerHTML = reason;
             });
         }
         else {
-            alert('Please select a file.');
+            vex.dialog.alert('Please select a file');
         }
     });
 
