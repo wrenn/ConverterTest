@@ -27,3 +27,4 @@ File Conversion Test Project
   * Used for modal alerts
 * JavaScript Promises 
 * XMLHttpRequest
+* IoC - Constructor Injection
