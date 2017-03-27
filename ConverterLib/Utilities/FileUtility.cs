@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.IO;
 using System.Web;
 
@@ -13,8 +14,9 @@ namespace ConverterLib.Utilities
         public static string GetSavePath()
         {
             string result = string.Empty;
+            string currentAppType = ConfigurationManager.AppSettings["CurrentAppType"];
 
-            try
+            if(currentAppType == "console")
             {
                 if (!Directory.Exists("Output"))
                 {
@@ -23,7 +25,7 @@ namespace ConverterLib.Utilities
 
                 result = Directory.GetCurrentDirectory() + @"\Output\";
             }
-            catch (Exception ex)
+            else
             {
                 result = HttpContext.Current.Server.MapPath("~/App_Data/");
             }
